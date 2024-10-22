@@ -1,3 +1,38 @@
+# Phishing Analysis Report
+
+## Objective
+This analysis serves to inform IT security teams of a potential threat, providing actionable steps to 
+mitigate risk and prevent employees from falling victim to phishing attacks. The focus is on proactive 
+measures to protect the organization from similar incidents in the future.
+
+## Skills Learned
+- Email Security Awareness: Recognizing common phishing tactics, such as urgency in subject lines and impersonation of legitimate organizations.
+
+- Artifact Analysis: Analyzing email headers and content to extract important information (e.g., sender address, recipient details, timestamps).
+
+- Network Analysis: Understanding IP address tracing and reverse DNS lookups to verify the legitimacy of the sending server.
+
+- Malicious URL Identification: Identifying and analyzing suspicious URLs, recognizing signs of credential harvesting.
+
+- Threat Intelligence: Using tools like VirusTotal to check the reputation of domains and URLs, understanding the landscape of known threats.
+
+- Incident Response: Developing response strategies, including blocking malicious senders and domains to protect the organization.
+
+- Communication and Reporting: Effectively communicating findings and suggested actions to relevant stakeholders, enhancing organizational security posture.
+
+- Understanding Social Engineering: Recognizing how attackers exploit human psychology to increase the effectiveness of their phishing attempts.
+
+## Tools Used
+<div>
+<img src="https://img.shields.io/badge/-Sublime%20Text-ac7339?&style=for-the-badge&logo=Sublime%20Text&logoColor=white" alt="Sublime Text">
+<img src="https://img.shields.io/badge/-Phish%20Tool-002266?&style=for-the-badge&logo=Phish&logoColor=white" alt="Phish Tool">
+<img src="https://img.shields.io/badge/-VirusTotal-00cccc?&style=for-the-badge&logo=VirusTotal&logoColor=white" alt="VirusTotal">
+<img src="https://img.shields.io/badge/-WHOIS%20Lookup-a3297a?&style=for-the-badge&logo=whois&logoColor=white" alt="WHOIS Lookup">
+<img src="https://img.shields.io/badge/-Cyber%20Chef-2db300?&style=for-the-badge&logo=CyberChef&logoColor=white" alt="CyberChef">
+<img src="https://img.shields.io/badge/-Splunk-ff9900?&style=for-the-badge&logo=Splunk&logoColor=white" alt="Splunk">
+
+</div>
+
 ## Artifacts
 
 Sending Address: `emailsecalert1@gmail.com`
